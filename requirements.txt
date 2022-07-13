@@ -1,0 +1,10 @@
+﻿pip install asgiref==3.4.1
+pip install certifi==2021.5.30
+pip install charset-normalizer==2.0.4
+pip install Django==3.2.11
+pip install idna==3.2
+pip install Pillow==9.0.0
+pip install pytz==2021.1
+pip install sqlparse==0.4.2
+pip install urllib3==1.26.6
+
